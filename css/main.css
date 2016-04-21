@@ -1,0 +1,41 @@
+h1 {
+	font-family: 'Cabin Sketch', cursive;
+	color: gray;
+	text-align: center;
+	font-size: 35px;
+}
+
+h1 span {
+	color: lightblue;
+}
+
+body {
+	text-align: center;
+}
+
+.logo {
+	font-size: 75px;
+	margin-bottom: 150px;
+}
+
+.zoom {
+	height: 500px;
+	margin: 0 auto;
+}
+
+footer {
+	height: 100px;
+	color: #949494;
+}
+
+h4 {
+	font-family: 'Cabin Sketch', cursive;
+}
+
+.btn {
+	font-family: 'Cabin Sketch', cursive;
+}
+
+.col-sm-4 {
+	padding-bottom: 30px;
+}
