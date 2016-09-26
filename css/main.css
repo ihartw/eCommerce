@@ -1,5 +1,10 @@
+@font-face {
+	src:'roboto/Roboto-Thin.ttf';
+	font-family: 'Roboto'
+}
+
 h1 {
-	font-family: 'Cabin Sketch', cursive;
+	font-family: 'Roboto';
 	color: gray;
 	text-align: center;
 	font-size: 35px;
@@ -38,4 +43,8 @@ h4 {
 
 .col-sm-4 {
 	padding-bottom: 30px;
+}
+
+.navbar-brand {
+	padding: 0px;
 }
